@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Anwar
 
-## I'm a FrontEnd Developer, and Designer
+## I'm a FrontEnd Developer, and novice Designer
 - 💪 I like to write code and create a modern design
 - 🎉 I like to learn new languages and frameworks
 - ⚡ I like to improve and update existing projects
