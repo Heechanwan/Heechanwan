@@ -34,6 +34,7 @@
 -🔥<a href="https://refuah.stanpo.com/" target="_blank">Refuah</a> <br />
 -🔥<a href="https://chinuch20.org/" target="_blank">Chomesh L'Chinuch</a> <br />
 -🔥<a href="https://briktobrick.com/" target="_blank">Briktobrick</a> <br />
+-🔥<a href="https://goodgradeschool.uz/" target="_blank">Good Grade</a> <br />
 -🔥<a href="https://ai-quest.co.uk/" target="_blank">AI Quest</a> <br />
 
 [linkedin]: https://www.linkedin.com/in/anwar-kuldashev-394606183/
